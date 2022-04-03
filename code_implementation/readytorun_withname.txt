@@ -1,0 +1,128 @@
+Youngstown,4110,8065
+Yankton,4288,9739
+Yakima,4660,12051
+Worcester,4227,7180
+Wisconsin Dells,4363,8977
+Winston-Salem,3610,8025
+Winnipeg,4988,9715
+Winchester,3919,7816
+Wilmington,3424,7792
+Wilmington,3975,7555
+Williston,4815,10362
+Williamsport,4125,7700
+Williamson,3768,8228
+Wichita Falls,3390,9849
+Wichita,3769,9734
+Wheeling,4007,8072
+West Palm Beach,2672,8005
+Wenatchee,4742,12032
+Weed,4142,12239
+Waycross,3122,8235
+Wausau,4496,8964
+Waukegan,4236,8783
+Watertown,4490,9711
+Watertown,4398,7592
+Waterloo,4250,9234
+Waterbury,4155,7305
+Washington,3889,7703
+Warren,4185,7914
+Walla Walla,4607,11833
+Waco,3155,9714
+Vincennes,3868,8753
+Victoria,2881,9701
+Vicksburg,3235,9088
+Vancouver,4927,12312
+Valley City,4692,9801
+Valdosta,3083,8328
+Utica,4311,7523
+Uniontown,3990,7973
+Tyler,3235,9530
+Twin Falls,4256,11447
+Tuscaloosa,3321,8757
+Tupelo,3426,8871
+Tulsa,3616,9591
+Tucson,3222,11097
+Trinidad,3717,10451
+Trenton,4023,7477
+Traverse City,4476,8563
+Toronto,4365,7938
+Topeka,3905,9567
+Toledo,4165,8354
+Texarkana,3343,9405
+Terre Haute,3947,8741
+Tampa,2795,8245
+Tallahassee,3045,8428
+Tacoma,4724,12243
+Syracuse,4305,7615
+Swainsboro,3260,8234
+Sumter,3392,8035
+Stroudsburg,4099,7519
+Stockton,3796,12129
+Stevens Point,4452,8957
+Steubenville,4036,8062
+Sterling,4062,10322
+Staunton,3815,7907
+Springfield,3992,8381
+Springfield,3722,9329
+Springfield,4210,7259
+Springfield,3980,8965
+Spokane,4767,11741
+South Bend,4168,8625
+Sioux Falls,4354,9673
+Sioux City,4249,9639
+Shreveport,3251,9375
+Sherman,3364,9661
+Sheridan,4480,10696
+Seminole,3523,9668
+Selma,3242,8702
+Sedalia,3871,9323
+Seattle,4760,12233
+Scranton,4141,7567
+Scottsbluff,4187,10366
+Schenectady,4282,7395
+Savannah,3208,8109
+Sault Sainte Marie,4649,8435
+Sarasota,2734,8253
+Santa Rosa,3844,12272
+Santa Fe,3568,10595
+Santa Barbara,3442,11970
+Santa Ana,3376,11787
+San Jose,3734,12188
+San Francisco,3778,12242
+Sandusky,4145,8271
+San Diego,3271,11715
+San Bernardino,3411,11731
+San Antonio,2942,9850
+San Angelo,3146,10044
+Salt Lake City,4076,11188
+Salisbury,3837,7560
+Salinas,3667,12165
+Salina,3884,9761
+Salida,3853,10600
+Salem,4494,12303
+Saint Paul,4495,9310
+Saint Louis,3862,9019
+Saint Joseph,3977,9484
+Saint Joseph,4210,8648
+Saint Johnsbury,4442,7202
+Saint Cloud,4557,9417
+Saint Augustine,2989,8132
+Saginaw,4343,8394
+Sacramento,3859,12149
+Rutland,4361,7297
+Roswell,3340,10453
+Rocky Mount,3594,7780
+Rock Springs,4159,10923
+Rockford,4227,8910
+Rochester,4316,7761
+Rochester,4402,9246
+Roanoke,3727,7994
+Richmond,3754,7745
+Richmond,3983,8489
+Richfield,3877,11209
+Rhinelander,4564,8942
+Reno,3952,11981
+Regina,5042,10465
+Red Bluff,4018,12224
+Reading,4033,7593
+Ravenna,4116,8124
