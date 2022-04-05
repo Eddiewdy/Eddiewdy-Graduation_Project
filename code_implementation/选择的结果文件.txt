@@ -1,0 +1,8 @@
+http://127.0.0.1:5500/us_cities_1158/result_TABU/500_10_10_165_result112.89999999999995.svg
+http://127.0.0.1:5500/us_cities_1158/result_TABU/500_10_10_165_random397.59999999999997.svg
+
+http://127.0.0.1:5500/us_cities_1158/result_TABU/500_10_10_231_random685.5.svg
+http://127.0.0.1:5500/us_cities_1158/result_TABU/500_10_10_231_result171.5999999999999.svg
+
+http://127.0.0.1:5500/result/3000_10_10_128_result51.599999999999994(good).svg
+http://127.0.0.1:5500/result/3000_10_10_128_random171.10000000000002.svg
