@@ -1,0 +1,1158 @@
+Aberdeen,SD*98.43*45.45 
+Abilene,TX*99.68*32.42 
+Adak,AK*176.65*51.88 
+Ainsworth,NE*99.98*42.58 
+Air Force A,CO*105.35*39.52 
+Akron,CO*103.22*40.17 
+Alameda NAS,CA*122.32*37.78 
+Alamosa,CO*105.87*37.45 
+Albany,GA*84.18*31.53 
+Albany,NY*73.80*42.75 
+Albert Lea,MN*93.37*43.68 
+Albuquerque,NM*106.60*35.05 
+Alexandria,LA*92.30*31.38 
+Alexandria,MN*95.38*45.87 
+Alice,TX*98.03*27.73 
+Allentown,PA*75.43*40.65 
+Alliance,NE*102.80*42.05 
+Alma,GA*82.52*31.53 
+Alpena,MI*83.57*45.07 
+Alton,IL*90.05*38.88 
+Altoona,PA*78.32*40.30 
+Alturas,CA*120.53*41.48 
+Altus AFB,OK*99.27*34.67 
+Amarillo,TX*101.70*35.23 
+Ambler,AK*157.85*67.10 
+Ambrose,NY*74.37*40.75 
+Anchorage,AK*149.85*61.22 
+Anderson,SC*82.72*34.50 
+Andrews AFB,MD*76.87*38.82 
+Angoon,AK*134.97*57.83 
+Aniak,AK*159.53*61.58 
+Ann Arbor,MI*83.75*42.22 
+Annette Isl,AK*131.57*55.03 
+Anniston,AL*85.85*33.58 
+Apalachicola,FL*85.03*29.73 
+Appleton,WI*88.52*44.25 
+Arcata,CA*124.10*40.98 
+Ardmore,OK*97.02*34.30 
+Asheville,NC*82.55*35.43 
+Aspen,CO*106.87*39.22 
+Astor NAS,FL*81.57*29.12 
+Astoria,OR*123.88*46.15 
+Athens,GA*83.32*33.95 
+Athens/Albany,OH*82.23*39.21 
+Atlanta,GA*84.42*33.65 
+Atlanta/Dklb,GA*84.30*33.88 
+Atlanta/Fltn,GA*84.52*33.78 
+Atlantic Cty,NJ*74.57*39.45 
+Attu,AK*173.30*53.50 
+Auburn,AL*85.44*32.67 
+Augusta,ME*69.80*44.32 
+Augusta/Bush,GA*81.97*33.37 
+Aurora,IL*88.32*41.77 
+Aurora,OR*122.75*45.25 
+Austin,NV*117.08*39.50 
+Austin,TX*97.70*30.30 
+Avon Park G,FL*81.55*28.08 
+Bakalar Af,IN*86.50*39.38 
+Baker,OR*117.82*44.83 
+Bakersfield,CA*119.05*35.43 
+Baltimore,MD*76.67*39.18 
+Bangor,ME*68.82*44.80 
+Bar Harbor,ME*68.37*44.45 
+Barbers Pt,HI*158.12*21.53 
+Barking San,HI*160.30*22.05 
+Barksdale,LA*93.67*32.50 
+Barnegat Ls,NJ*74.28*40.28 
+Barrow,AK*156.78*71.30 
+Barter Islan,AK*143.63*70.13 
+Bartlesville,OK*96.00*36.75 
+Baton Rouge,LA*91.15*30.53 
+Battle Creek,MI*85.23*42.30 
+Battle Mtn,NV*116.87*40.62 
+Beale AFB,CA*121.45*39.13 
+Beatrice,NE*96.75*40.32 
+Beaufort Mca,SC*80.72*32.48 
+Beaumont,CA*116.95*33.93 
+Beaver Falls,PA*80.33*40.75 
+Beckley,WV*81.12*37.78 
+Bedford,MA*71.28*42.47 
+Bellingham,WA*122.53*48.80 
+Bemidji Muni,MN*94.93*47.50 
+Benton Harbor,MI*86.43*42.13 
+Bergstrom Af,TX*97.68*30.20 
+Berlin,NH*71.18*44.58 
+Bethel Arpt,AK*161.80*60.78 
+Bettles,AK*151.52*66.92 
+Beverly,MA*70.92*42.58 
+Bicycle Lk,CA*116.62*35.28 
+Big Bear Apt,CA*116.68*34.27 
+Big Delta,AK*145.73*64.00 
+Big Piney,WY*110.10*42.57 
+Big River Lk,AK*152.30*60.82 
+Big Sky,TX*101.48*32.39 
+Big Spring,TX*101.45*32.30 
+Billings,MT*108.53*45.80 
+Binghamton,NY*75.98*42.22 
+Birmingham,AL*86.75*33.57 
+Bishop,CA*118.60*37.60 
+Bismarck,ND*100.75*46.77 
+Bistate Park,IL*90.15*38.57 
+Blairsville,PA*79.09*40.27 
+Blanding,UT*109.78*38.03 
+Block Island,RI*71.58*41.17 
+Bloomington,IL*88.93*40.48 
+Bloomington,IN*86.62*39.13 
+Blue Canyon,CA*120.70*39.28 
+Bluefield,WV*81.22*37.30 
+Blythe,CA*114.72*33.62 
+Blytheville,AR*89.95*35.97 
+Boise,ID*116.22*43.57 
+Boothville,LA*89.67*29.55 
+Boston,MA*71.03*42.37 
+Bowling Gren,KY*86.43*36.97 
+Bozeman,MT*111.15*45.78 
+Bradford,IL*89.60*41.16 
+Bradford,PA*78.63*41.80 
+Brainerd-Crw,MN*94.13*46.40 
+Bremerton,WA*122.77*47.48 
+Bridgeport,CT*73.13*41.17 
+Bristol,TN*82.40*36.48 
+Brmfield/Jef,CO*105.12*39.90 
+Broadus,MT*105.67*45.67 
+Broken Bow,NE*99.65*41.43 
+Brookings,OR*124.47*42.08 
+Brookings,SD*96.80*44.30 
+Brownsville,TX*97.43*25.90 
+Brownwood,TX*98.96*31.79 
+Brunswick,GA*81.38*31.15 
+Brunswick,ME*69.93*43.88 
+Buckley,CO*104.75*39.72 
+Buffalo,NY*78.73*42.93 
+Bullfrog Mar,UT*110.70*37.50 
+Burbank,CA*118.37*34.20 
+Burley,ID*113.77*42.53 
+Burlington,IA*91.12*40.78 
+Burlington,VT*73.15*44.47 
+Burlington,WA*122.33*48.50 
+Burns Arpt,OR*118.95*43.60 
+Burwell,NE*99.15*41.78 
+Butte,MT*112.50*45.95 
+Cairo,IL*89.22*37.07 
+Caliente,NV*114.52*37.62 
+Camden,AR*92.40*33.52 
+Cameron Heli,LA*93.30*29.78 
+Camp Pendlet,CA*117.35*33.30 
+Campo,CA*116.47*32.62 
+Cannon,NM*103.32*34.38 
+Canton,OH*81.43*40.92 
+Cantwell,AK*148.95*63.38 
+Cape Blanco,OR*124.95*43.38 
+Cape Canaveral,FL*80.55*28.47 
+Cape Cod Can,MA*70.50*41.78 
+Cape Decis,AK*134.22*56.00 
+Cape Hattera,NC*75.55*35.27 
+Cape Hinchi,AK*147.08*60.38 
+Cape Spence,AK*137.05*58.33 
+Cape St Eli,AK*145.00*60.33 
+Carbondale,IL*89.25*37.78 
+Caribou Mun,ME*68.02*46.87 
+Carlsbad,CA*117.28*33.13 
+Carlsbad,NM*104.27*32.33 
+Carswell AFB,TX*97.43*32.78 
+Cascade,OR*121.88*45.68 
+Casper,WY*106.47*42.92 
+Castle AFB,CA*120.57*37.38 
+Cecil,FL*81.88*30.22 
+Cedar City,UT*113.10*37.70 
+Cedar Rapids,IA*91.70*41.88 
+Centralia,IL*89.09*38.51 
+Centreville,AL*87.25*32.90 
+Chadron,NE*103.08*42.83 
+Challis,ID*114.22*44.52 
+Chamberlain,SD*99.32*43.80 
+Champaign/Urbana,IL*88.28*40.03 
+Chandalar Lk,AK*148.48*67.50 
+Chanute,KS*95.48*37.67 
+Charleston,SC*80.03*32.90 
+Charleston,WV*81.60*38.37 
+Charlotte,NC*80.93*35.22 
+Charlottesvi,VA*78.45*38.13 
+Chase NAS,TX*97.67*28.37 
+Chatham,MA*69.97*41.67 
+Chattanooga,TN*85.20*35.03 
+Cherry Point,NC*76.88*34.90 
+Chesapeake,VA*76.20*37.50 
+Cheyenne,WY*104.82*41.15 
+Chicago,IL*87.65*41.90 
+Chicago/Meigs,IL*87.62*41.87 
+Chicago/Midway,IL*87.75*41.78 
+Chicago/O'hare,IL*87.90*41.98 
+Chico,CA*121.85*39.78 
+Childress,TX*100.28*34.43 
+China Lake,CA*117.68*35.68 
+Chino,CA*117.63*33.97 
+Chippewa,MI*84.47*46.25 
+Chulitna,AK*149.83*62.88 
+Cincinnati,OH*84.43*39.10 
+Circle City,AK*144.07*65.83 
+Claiborne R,LA*92.95*31.22 
+Clarksburg,WV*80.23*39.28 
+Clarksville,TN*87.42*36.62 
+Clayton Arpt,NM*103.15*36.45 
+Cleveland,OH*81.48*41.57 
+Clinton,OK*99.20*35.35 
+Cody,WY*109.02*44.52 
+Coeur d'Alene,ID*116.82*47.77 
+Col. J Jabar,KS*97.22*37.75 
+Cold Bay,AK*162.72*55.20 
+College Stn,TX*96.37*30.58 
+Colo Sprgs,CO*104.72*38.82 
+Columbia,MO*92.22*38.82 
+Columbia,SC*81.12*33.95 
+Columbus,GA*84.93*32.52 
+Columbus,NE*97.35*41.45 
+Columbus,OH*82.88*40.00 
+Columbus AFB,MS*88.45*33.65 
+Columbus Osu,OH*83.07*40.08 
+Colville,WA*118.47*48.88 
+Concord,CA*122.05*37.98 
+Concord,NH*71.50*43.20 
+Concordia,KS*97.65*39.55 
+Coopersville,MI*85.95*43.07 
+Copper Harb,MI*87.85*47.47 
+Cordova,AK*145.50*60.50 
+Corona,NM*105.68*34.10 
+Corpus Chrst,TX*97.50*27.77 
+Cortez,CO*108.63*37.30 
+Corvallis,OR*123.28*44.50 
+Cotulla,TX*99.22*28.45 
+Cozad,NE*100.00*40.87 
+Cp Girardeau,MO*89.58*37.23 
+Craig,AK*133.25*55.80 
+Craig-Moffat,CO*107.53*40.50 
+Crescent Cty,CA*124.23*41.78 
+Crestview,FL*86.52*30.78 
+Cross City,FL*83.10*29.62 
+Crossville,TN*85.08*35.95 
+Cuba Awrs,NM*106.95*36.02 
+Custer,SD*103.60*43.77 
+Cut Bank,MT*112.37*48.60 
+D.w. Hooks,TX*95.55*30.07 
+Daggett,CA*116.78*34.87 
+Dalhart,TX*102.55*36.02 
+Dallas/Addis,TX*96.83*32.97 
+Dallas/FW,TX*97.03*32.90 
+Dallas/Love,TX*96.85*32.85 
+Dallas/Redbr,TX*96.87*32.68 
+Dallas NAS,TX*96.97*32.73 
+Danbury,CT*73.48*41.37 
+Dansville,NY*78.20*42.97 
+Danville,IL*87.60*40.20 
+Danville,VA*79.33*36.57 
+Dare Co Gr,NC*76.50*36.13 
+Davis-M AFB,AZ*110.88*32.17 
+Dayton,OH*84.20*39.90 
+Daytona Bch,FL*81.05*29.18 
+DeKalb,IL*88.72*41.93 
+Deadhorse,AK*148.47*70.20 
+Decatur,IL*88.87*39.83 
+Deer Valley,AZ*112.08*33.68 
+Del Rio,TX*100.92*29.37 
+Delta,UT*112.58*39.33 
+Deming,NM*107.70*32.25 
+Denver,CO*104.87*39.75 
+Des Moines,IA*93.65*41.53 
+Detroit,MI*83.02*42.42 
+Detroit Laks,MN*95.88*46.82 
+Devil's Lake,ND*98.87*48.10 
+Diamond Sho,NC*75.50*35.25 
+Dickenson,ND*102.80*46.78 
+Dillingham,AK*158.52*59.05 
+Dillon,MT*112.55*45.25 
+Dobbins AFB,GA*84.52*33.92 
+Dodge City,KS*99.97*37.77 
+Dothan,AL*85.45*31.32 
+Douglas,AZ*109.60*31.45 
+Douglas,WY*105.38*42.75 
+Dover,DE*75.47*39.13 
+Drummond,MT*113.15*46.67 
+Du Page,IL*88.25*41.92 
+Dubois,PA*78.90*41.18 
+Dubuque,IA*90.70*42.40 
+Duffys Tavern,AK*143.92*62.73 
+Dugway Prvgr,UT*112.93*40.20 
+Duke Fld,FL*86.52*30.65 
+Duluth,MN*92.18*46.83 
+Durango,CO*107.75*37.15 
+Dutch Harbor,AK*166.53*53.88 
+Dyersburg,TN*89.40*36.02 
+Dyess AFB,TX*99.85*32.43 
+Eagle,CO*106.92*39.65 
+Eagle Arpt,AK*141.15*64.77 
+Eagle Range,UT*113.07*41.05 
+Eau Claire,WI*91.48*44.87 
+Edwards AFB,CA*117.88*34.90 
+Eglin AFB,FL*86.53*30.48 
+Egmont Key,FL*82.77*27.60 
+El Centro,CA*115.68*32.82 
+El Dorado,AR*92.80*33.22 
+El Monte,CA*118.03*34.08 
+El Paso,TX*106.40*31.80 
+El Toro,CA*117.73*33.67 
+Eldred Rock,AK*135.37*59.62 
+Elfin Cove,AK*136.35*58.20 
+Elizabeth,NC*76.18*36.27 
+Elk City,ID*115.43*45.82 
+Elkhart,IN*86.00*41.72 
+Elkhart,KS*101.88*37.00 
+Elkins,WV*79.85*38.88 
+Elko,NV*115.78*40.83 
+Ellington Af,TX*95.17*29.62 
+Ellsworth Af,SD*103.10*44.15 
+Elmira,NY*76.90*42.17 
+Ely,MN*91.82*47.90 
+Ely/Yelland,NV*114.85*39.28 
+Emporia,KS*96.20*38.33 
+England AFB,LA*92.55*31.33 
+Englewood,CO*104.83*39.57 
+Enid,OK*97.80*36.38 
+Ephrata,WA*119.52*47.32 
+Erie,PA*80.18*42.08 
+Escanaba,MI*87.08*45.73 
+Estherville,IA*94.75*43.40 
+Eugene,OR*123.22*44.12 
+Eugene Is.,LA*91.78*28.47 
+Eureka,CA*124.28*41.33 
+Eureka,NV*115.97*39.50 
+Evanston,WY*111.00*41.33 
+Evansville,IN*87.53*38.05 
+Everet/Paine,WA*122.28*47.92 
+Fairbanks,AK*147.87*64.82 
+Fairchild,WA*117.65*47.62 
+Fairfield,NJ*74.28*40.87 
+Fairmont,MN*94.42*43.65 
+Falcon Fld,AZ*111.73*33.47 
+Fallon NAS,NV*118.70*39.42 
+Falls City,NE*95.58*40.07 
+Farewell,AK*154.47*62.85 
+Fargo,ND*96.80*46.90 
+Farmingdale,NY*73.43*40.73 
+Farmington,NM*108.23*36.75 
+Fayetteville,AR*94.17*36.00 
+Fayetteville,NC*78.88*35.00 
+Fergus Falls,MN*96.07*46.30 
+Findlay,OH*83.67*41.02 
+Five Finger,AK*134.03*57.45 
+Five Mile,AK*149.83*65.93 
+Flagstaff,AZ*111.67*35.13 
+Flint/Bishop,MI*83.75*42.97 
+Florence,SC*79.72*34.18 
+Fort Belvoir,VA*77.18*38.72 
+Fort Benning,GA*85.00*32.33 
+Fort Bragg,NC*78.93*35.13 
+Fort Carson,CO*104.77*38.68 
+Fort Devens,MA*71.60*42.57 
+Fort Dodge,IA*94.18*42.55 
+Fort Drum,NY*75.73*44.05 
+Fort Eustis,VA*76.62*37.13 
+Fort Huachuc,AZ*110.35*31.60 
+Fort Hunter,CA*121.32*36.00 
+Fort Lauderd,FL*80.13*26.13 
+Fort Lewis,WA*122.58*47.08 
+Fort Meade,MD*76.77*39.08 
+Fort Myers,FL*81.87*26.58 
+Fort Ord,CA*121.77*36.68 
+Fort Polk,LA*93.20*31.05 
+Fort Rucker,AL*85.72*31.28 
+Fort Sill,OK*98.40*34.65 
+Fort Wayne,IN*85.20*41.00 
+Fort Worth,TX*97.35*32.82 
+Fort Yukon,AK*145.27*66.57 
+Fr Frigate,HI*166.47*24.45 
+Franklin,PA*79.87*41.38 
+Fraser,CO*105.50*39.57 
+Fresno,CA*119.72*36.77 
+Ft Campbell,KY*87.50*36.67 
+Ft Col/Lovel,CO*105.02*40.45 
+Ft Collins,CO*105.08*40.58 
+Ft Hood Aaf,TX*97.72*31.15 
+Ft Knox,KY*85.97*37.90 
+Ft Lauderdale,FL*80.15*26.07 
+Ft Leavnwrth,KS*94.92*39.37 
+Ft Leonard,MO*92.13*37.75 
+Ft Myers,FL*81.87*26.65 
+Ft Riley,KS*96.77*39.05 
+Ft Smith,AR*94.37*35.33 
+Ft Stewart,GA*81.57*31.88 
+Fullerton,CA*117.97*33.87 
+Funter Bay,AK*134.90*58.25 
+Gadsden,AL*86.09*33.97 
+Gage,OK*99.77*36.30 
+Gainesville,FL*82.27*29.68 
+Galbraith Lk,AK*149.48*68.48 
+Galesburg,IL*90.43*40.93 
+Gallup/Clark,NM*108.78*35.52 
+Galveston,TX*94.87*29.27 
+Gambell,AK*171.73*63.77 
+Garden City,KS*100.72*37.93 
+Gary,IN*87.42*41.62 
+George AFB,CA*117.38*34.58 
+Gila Bend,AZ*113.17*33.55 
+Gillette,WY*105.53*44.35 
+Glasgow,MT*106.62*48.22 
+Glendive,MT*104.80*47.13 
+Glens Falls,NY*73.62*43.35 
+Glenview NAS,IL*87.82*42.08 
+Golden Trian,MS*88.58*33.45 
+Gooding,ID*115.17*43.00 
+Goodland,KS*101.70*39.37 
+Goodyear,AZ*112.38*33.42 
+Grand Canyon,AZ*112.15*35.95 
+Grand Forks,ND*97.18*47.95 
+Grand Island,NE*98.32*40.97 
+Grand Isle,LA*90.07*29.18 
+Grand Jct,CO*108.53*39.12 
+Grand Rapids,MI*85.52*42.88 
+Grand Rapids,MN*93.52*47.22 
+Grangeville,ID*116.13*45.92 
+Grants,NM*107.90*35.17 
+Gray AFB,TX*97.83*31.07 
+Great Falls,MT*111.37*47.48 
+Greeley-Wld,CO*104.63*40.43 
+Green Bay,WI*88.13*44.48 
+Green River,UT*110.15*39.00 
+Greensboro,NC*79.95*36.08 
+Greenville,ME*69.63*45.78 
+Greenville,MS*90.98*33.48 
+Greenville,SC*82.35*34.85 
+Greenville,TX*96.07*33.07 
+Greenwood,MS*90.08*33.50 
+Griffiss AFB,NY*75.40*43.23 
+Grissom AFB,IN*86.15*40.65 
+Groton,CT*72.05*41.33 
+Guadalupe Ps,TX*104.80*31.83 
+Gulfport,MS*89.07*30.40 
+Gulkana Arpt,AK*145.45*62.15 
+Gunnison,CO*106.93*38.55 
+Gustavus,AK*135.73*58.42 
+Hagerstown,MD*77.72*39.70 
+Haines Hrbor,AK*135.43*59.23 
+Hancock,MI*88.50*47.17 
+Hanford,WA*119.60*46.57 
+Hanksville,UT*110.72*38.37 
+Harbor Beach,MI*82.53*43.83 
+Harlingen,TX*97.67*26.23 
+Harlowton,MT*109.83*46.43 
+Harrisburg,PA*77.42*40.37 
+Harrison,AR*93.15*36.27 
+Hartford,CT*72.65*41.73 
+Hastings,NE*98.43*40.60 
+Hattiesburg,MS*89.33*31.47 
+Havre,MT*109.77*48.55 
+Hawthorne,CA*118.33*33.92 
+Hawthorne,NV*118.63*38.55 
+Hayes River,AK*152.08*61.98 
+Hays,KS*99.27*38.85 
+Hayward,CA*122.12*37.65 
+Healy River,AK*149.00*63.83 
+Helena,MT*112.00*46.60 
+Hibbing,MN*92.85*47.38 
+Hickory,NC*81.38*35.75 
+High Is,LA*93.75*28.22 
+High Island,LA*94.40*28.13 
+Hill AFB,UT*111.97*41.12 
+Hill City,KS*99.83*39.38 
+Hillsboro,OR*122.95*45.53 
+Hilo,HI*155.07*19.72 
+Hobart,OK*99.05*35.00 
+Hobbs,NM*103.20*32.68 
+Holloman AFB,NM*106.10*32.85 
+Homer,AK*151.50*59.63 
+Homestead,FL*80.38*25.48 
+Hondo,TX*99.17*29.35 
+Honolulu Int,HI*157.93*21.35 
+Hoonah Seapl,AK*135.45*58.10 
+Hoquiam,WA*123.97*46.97 
+Hot Springs,AR*93.10*34.48 
+Hot Springs,NC*82.82*35.90 
+Hot Springs,VA*79.82*37.95 
+Houghton Lake,MI*84.68*44.37 
+Houlton,ME*67.78*46.13 
+Houma,LA*90.65*29.57 
+Houston,TX*95.35*29.97 
+Houston/Hobby,TX*95.28*29.65 
+Hunter Aaf,GA*81.15*32.02 
+Huntington,WV*82.55*38.37 
+Huntsville,AL*86.77*34.65 
+Hurlburt Fld,FL*86.68*30.43 
+Huron,SD*98.22*44.38 
+Hutchinson,KS*97.87*38.07 
+Hyannis,MA*70.28*41.67 
+Idaho Falls,ID*112.07*43.52 
+Iliamna Arpt,AK*154.92*59.75 
+Imperial,CA*115.57*32.83 
+Imperial,NE*101.39*40.33 
+Imperial Bch,CA*117.12*32.57 
+Ind Sprng Rn,NV*115.57*36.53 
+Indianapolis,IN*86.27*39.73 
+Intercoastal,LA*92.12*29.73 
+Intl Falls,MN*93.38*48.57 
+Iron Mtn,MI*88.12*45.82 
+Ironwood,MI*90.13*46.53 
+Islip,NY*73.10*40.78 
+Ithaca,NY*76.47*42.48 
+Jackson,KY*83.32*37.60 
+Jackson,MI*84.47*42.27 
+Jackson,MS*90.08*32.32 
+Jackson,TN*88.92*35.60 
+Jackson,WY*110.73*43.60 
+Jacksonville,FL*81.68*30.23 
+Jacksonville,NC*77.62*34.82 
+Jaffrey,NH*72.00*42.80 
+Jamestown,ND*98.68*46.92 
+Jamestown,NY*79.25*42.15 
+Janesville,WI*89.03*42.62 
+Jefferson City,MO*92.17*38.60 
+Johnson Cnty,KS*94.88*38.82 
+Johnstown,PA*78.83*40.32 
+Jonesboro,AR*90.65*35.83 
+Joplin,MO*94.50*37.17 
+Jordan,MT*106.93*47.33 
+Junction,TX*99.77*30.50 
+Juneau,AK*134.58*58.37 
+Kahului Maui,HI*156.43*20.90 
+Kake Seaplan,AK*133.95*56.97 
+Kalamazoo,MI*85.55*42.23 
+Kalispell,MT*114.27*48.30 
+Kaneohe Mca,HI*158.28*21.75 
+Kankakee,IL*87.85*41.07 
+Kansas City,MO*94.72*39.32 
+Ke-Ahole/Kon,HI*156.05*19.75 
+Kearney,NE*99.00*40.73 
+Keene,NH*72.27*42.90 
+Keesler AFB,MS*88.92*30.42 
+Kelly AFB,TX*98.58*29.38 
+Kenai,AK*151.25*60.57 
+Kerrville,TX*99.08*29.98 
+Ketchikan,AK*131.70*55.35 
+Key West,FL*81.75*24.55 
+Key West NAS,FL*81.68*24.57 
+Kilauea Pt,HI*159.67*22.38 
+Killeen,TX*97.68*31.08 
+King Salmon,AK*156.65*58.68 
+Kingman,AZ*113.95*35.27 
+Kingsville,TX*97.82*27.50 
+Kinston,NC*77.63*35.32 
+Kirksville,MO*92.55*40.10 
+Klamath Fall,OR*121.73*42.15 
+Knoxville,TN*83.98*35.82 
+Kodiak,AK*152.50*57.75 
+Kotzebue,AK*162.63*66.87 
+La Crosse,WI*91.25*43.87 
+La Grande,OR*118.00*45.28 
+La Grange,GA*85.07*33.01 
+La Junta,CO*103.52*38.05 
+La Verne,CA*117.78*34.10 
+Laconia,NH*71.43*43.57 
+Lafayette,LA*92.00*30.20 
+Lake Charles,LA*93.22*30.12 
+Lake Tahoe,CA*120.00*38.90 
+Lake View,OR*120.35*42.18 
+Lakehurst,NJ*74.35*40.03 
+Lakeland,FL*81.95*28.03 
+Lamar,CO*102.60*38.12 
+Lamoni,IA*93.93*40.62 
+Lanai-Lanai,HI*156.95*20.80 
+Lancaster,CA*118.22*34.73 
+Lancaster,PA*76.30*40.13 
+Lander,WY*108.73*42.82 
+Langley AFB,VA*76.37*37.08 
+Lansing,MI*84.60*42.77 
+Laramie,WY*105.68*41.32 
+Laredo Intl,TX*99.47*27.53 
+Las Cruces,NM*106.77*32.30 
+Las Vegas,NM*105.15*35.65 
+Las Vegas,NV*115.17*36.08 
+Latrobe,PA*79.40*40.28 
+Laughlin AFB,TX*100.78*29.37 
+Laurel,MS*89.17*31.67 
+Lawrence,MA*71.12*42.72 
+Lawton,OK*98.42*34.57 
+Lazy Mtn,AK*149.03*61.63 
+Leadville,CO*106.30*39.25 
+Lebanon,NH*72.30*43.63 
+Lemmon,SD*102.17*45.93 
+Lemoore NAS,CA*119.95*36.33 
+Lewisburg,WV*80.40*37.87 
+Lewiston,ID*117.02*46.38 
+Lewiston,MT*109.45*47.05 
+Lexington,KY*85.00*38.05 
+Liberal,KS*100.97*37.05 
+Lidgerwood,ND*97.15*46.10 
+Lihue-Kauai,HI*159.35*21.98 
+Limon,CO*103.70*39.18 
+Lincoln Muni,NE*96.75*40.85 
+Litchfield,MN*94.52*45.13 
+Little Rock,AR*92.38*35.22 
+Livermore,CA*121.82*37.70 
+Livingston,MT*110.43*45.70 
+Lk Palourde,LA*91.10*29.70 
+Logan,UT*111.85*41.78 
+London,KY*84.07*37.08 
+Lone Rock,WI*90.18*43.20 
+Lonely (dew),AK*153.23*70.92 
+Long Beach,CA*118.15*33.82 
+Longview,TX*94.72*32.38 
+Loring AFB,ME*67.88*46.95 
+Los Alamitos,CA*118.05*33.78 
+Los Alamos,NM*106.28*35.88 
+Los Angeles,CA*118.40*33.93 
+Louisville,KY*85.67*38.23 
+Lovelock,NV*118.92*40.10 
+Lubbock,TX*101.82*33.65 
+Lufkin,TX*94.75*31.23 
+Luke,AZ*112.38*33.53 
+Lynchburg,VA*79.20*37.33 
+Macdill AFB,FL*82.52*27.85 
+Mackall Aaf,NC*79.50*35.03 
+Macomb,IL*90.66*40.52 
+Macon/Lewis,GA*83.65*32.70 
+Madison,WI*89.33*43.13 
+Malad City,ID*112.32*42.17 
+Malmstrom,MT*111.18*47.50 
+Malta,ID*113.37*42.30 
+Mammoth Lks,CA*118.92*37.63 
+Manchester,NH*71.43*42.93 
+Manhatten,KS*96.67*39.15 
+Manistee,MI*86.25*44.27 
+Manitowac,WI*87.67*44.13 
+Mankato,MN*93.92*44.22 
+Manley Ht Sp,AK*150.65*65.00 
+Mansfield,OH*82.52*40.82 
+Manteo Arpt,NC*75.68*35.92 
+March AFB,CA*117.27*33.88 
+Marfa,TX*104.02*30.37 
+Marianna,FL*85.18*30.84 
+Marion,IL*89.00*37.75 
+Marquette,MI*87.95*46.88 
+Marseilles,IL*88.68*41.37 
+Marshall Arpt,MN*95.82*44.45 
+Marthas Vine,MA*70.62*41.40 
+Martinsburg,WV*77.98*39.40 
+Marysville,CA*121.57*39.10 
+Mason City,IA*93.33*43.15 
+Massena,NY*74.85*44.93 
+Mather AFB,CA*121.30*38.57 
+Mattoon,IL*88.28*39.48 
+Maui,HI*156.83*20.97 
+Maxwell AFB,AL*86.37*32.38 
+Mayport NAS,FL*81.42*30.40 
+Mcalester,OK*95.78*34.88 
+Mcallen,TX*98.23*26.18 
+Mccall,ID*116.10*44.88 
+Mccarthy,AK*142.92*61.43 
+Mcchord AFB,WA*122.48*47.15 
+Mcclellan,CA*121.40*38.67 
+Mccomb,MS*90.47*31.18 
+Mcconnell Af,KS*97.27*37.62 
+Mccook,NE*100.58*40.22 
+Mcentire,SC*80.80*33.92 
+Mcgrath,AK*155.62*62.97 
+Mcguire AFB,NJ*74.60*40.02 
+Meacham,OR*118.40*45.50 
+Medford,OR*122.87*42.37 
+Medicine Ldg,KS*98.58*37.30 
+Mekoryuk,AK*166.27*60.37 
+Melbourne,FL*80.63*28.10 
+Memphis Intl,TN*90.00*35.05 
+Memphis NAS,TN*89.87*35.35 
+Menominee,MI*87.63*45.12 
+Merced,CA*120.52*37.28 
+Mercury,NV*116.02*36.62 
+Meridian/Key,MS*88.75*32.33 
+Meridian NAS,MS*88.57*32.55 
+Miami/Opa,FL*80.28*25.92 
+Miami/Tamiami,FL*80.43*25.65 
+Miami Intl,FL*80.28*25.82 
+Middleton Is,AK*146.33*59.43 
+Middletown,PA*76.77*40.20 
+Midland,TX*102.18*31.95 
+Miles City,MT*105.87*46.43 
+Milford,UT*113.03*38.72 
+Millville,NJ*75.07*39.37 
+Milwaukee,WI*87.90*42.95 
+Minchumina,AK*152.27*63.90 
+Mineral Wlls,TX*98.07*32.78 
+Minneapolis,MN*93.22*44.88 
+Minot AFB,ND*101.35*48.42 
+Minot Intl,ND*101.28*48.27 
+Miramar NAS,CA*117.15*32.87 
+Missippi Can,LA*89.05*28.78 
+Missoula,MT*114.08*46.92 
+Mitchell,SD*98.03*43.77 
+Moab,UT*109.75*38.77 
+Mobile,AL*88.25*30.68 
+Mobile Aeros,AL*88.07*30.63 
+Mobridge,SD*100.43*45.53 
+Modesto,CA*120.95*37.63 
+Moffet NAS,CA*122.05*37.42 
+Mojave,CA*118.15*35.05 
+Moline/Quad,IL*90.52*41.45 
+Molokai,HI*157.10*21.15 
+Monett,MO*94.35*37.33 
+Monida,MT*112.32*44.57 
+Monroe,LA*92.05*32.52 
+Montague,CA*122.53*41.73 
+Monteagle,TN*85.51*35.15 
+Monterey,CA*121.85*36.58 
+Montgomery,AL*86.40*32.30 
+Monticello,NY*74.80*41.70 
+Montpelier,VT*72.57*44.20 
+Montrose,CO*107.88*38.50 
+Moody AFB,GA*83.20*30.97 
+Moorcroft,WY*104.81*44.35 
+Morgan City,LA*91.20*29.70 
+Morgantown,WV*79.92*39.65 
+Moriarity,NM*106.05*34.98 
+Morristown,NJ*74.42*40.80 
+Moses Lake,WA*119.32*47.20 
+Mosinee,WI*89.67*44.78 
+Mount Shasta,CA*122.32*41.32 
+Mount Vernon,IL*88.86*38.32 
+Mount Wilson,CA*118.07*34.23 
+Mountn Home,ID*115.87*43.05 
+Mt Washingtn,NH*71.30*44.27 
+Muir,PA*76.57*40.43 
+Mullan,ID*115.80*47.47 
+Mullen,NE*101.05*42.05 
+Muncie,IN*85.38*40.23 
+Muscle Shoal,AL*87.62*34.75 
+Muskegon,MI*86.25*43.17 
+Muskogee,MO*95.36*35.66 
+Myrtle Beach,SC*78.93*33.68 
+Nantucket,MA*70.07*41.25 
+Napa,CA*122.28*38.22 
+Naples,FL*81.80*26.13 
+Nasa Shuttle,FL*80.68*28.62 
+Nashua,NH*71.52*42.78 
+Nashville,TN*86.68*36.12 
+Natchez,MS*91.25*31.62 
+Needles,CA*114.62*34.77 
+Neenah,WI*88.53*44.22 
+Nellis AFB,NV*115.03*36.23 
+Nenana,AK*149.08*64.55 
+New Andreafs,AK*163.30*62.07 
+New Bedford,MA*70.97*41.68 
+New Bern,NC*77.05*35.08 
+New Haven,CT*72.67*41.22 
+New Iberia,LA*91.88*30.03 
+New London,CT*72.08*41.30 
+New Orleans,LA*90.25*29.98 
+New River,NC*77.43*34.70 
+New York,NY*73.98*40.77 
+New York/JFK,NY*73.78*40.65 
+New York/LGA,NY*73.90*40.77 
+Newark Intl,NJ*74.17*40.70 
+Newburgh,NY*74.10*41.50 
+Newport,OR*124.05*44.63 
+Newport,VT*72.33*45.55 
+Newport News,VA*76.50*37.13 
+Niagara Fall,NY*78.95*43.10 
+Nikolski,AK*169.42*53.58 
+Nome,AK*165.43*64.50 
+Norfolk,NE*97.43*41.98 
+Norfolk NAS,VA*76.28*36.93 
+Norfolk Rgnl,VA*76.20*36.90 
+Norman,OK*97.47*35.23 
+North Bend,OR*124.25*43.42 
+North Is,CA*117.20*32.70 
+North Omaha,NE*96.02*41.37 
+North Platte,NE*100.68*41.13 
+Northrup Str,NM*106.40*32.90 
+Northway,AK*141.93*62.97 
+Norton AFB,CA*117.23*34.10 
+Norwood,MA*71.18*42.18 
+Nth Kingston,RI*71.42*41.60 
+Nth Myrtle B,SC*78.72*33.82 
+Nth Philadel,PA*75.02*40.08 
+O'neill,NE*98.68*42.47 
+Oak Harbor,WA*122.68*48.25 
+Oakland,CA*122.22*37.73 
+Ocean City,MD*75.13*38.55 
+Oceana NAS,VA*76.03*36.82 
+Offutt AFB,NE*95.92*41.12 
+Ogden,UT*112.02*41.18 
+Ogdensburg,NY*75.40*44.68 
+Oklahoma Cty,OK*97.60*35.40 
+Olathe,KS*94.90*38.85 
+Oliktok Dew,AK*149.88*70.50 
+Olympia,WA*122.90*46.97 
+Omaha/Eppley,NE*95.90*41.30 
+Omak,WA*119.53*48.42 
+Oneonta,NY*75.12*42.87 
+Ontario,OR*117.02*44.02 
+Ontario Intl,CA*117.62*34.05 
+Ord/Sharp,NE*98.95*41.62 
+Orlando,FL*81.33*28.55 
+Oshkosh,WI*88.57*44.00 
+Otis ANGB,MA*70.52*41.65 
+Ottumwa,IA*92.45*41.10 
+Owensboro,KY*87.17*37.75 
+Owyhee,NV*116.17*42.58 
+Oxford,MS*89.54*34.39 
+Oxnard,CA*119.20*34.20 
+Paducah,KY*88.77*37.07 
+Page,AZ*111.45*36.93 
+Page,OK*94.62*34.68 
+Palacios,TX*96.25*28.72 
+Palm Springs,CA*116.50*33.83 
+Palmdale,CA*118.13*35.05 
+Palmer,AK*149.08*61.60 
+Palo Alto,CA*122.12*37.47 
+Panama City,FL*85.68*30.20 
+Paris/Cox,TX*95.45*33.63 
+Park Rapids,MN*95.07*46.90 
+Parkersburg,WV*81.43*39.35 
+Pasco,WA*119.12*46.27 
+Paso Robles,CA*120.63*35.67 
+Patrick AFB,FL*80.60*28.23 
+Patuxent,MD*76.40*38.28 
+Paxson,AK*145.50*63.03 
+Payson,AZ*111.33*34.23 
+Pease AFB,NH*70.82*43.08 
+Pellston,MI*84.80*45.57 
+Pendleton,OR*118.85*45.68 
+Pensacola,FL*87.20*30.47 
+Peoria,IL*89.68*40.67 
+Pequot Lake,MN*94.32*46.60 
+Petersburg,AK*132.97*56.82 
+Philadelphia,PA*75.25*39.88 
+Philip,SD*101.60*44.05 
+Philipsburg,PA*78.13*41.47 
+Phillips,MD*76.17*39.47 
+Phoenix,AZ*112.02*33.43 
+Pierre,SD*100.28*44.38 
+Pikeville,KY*82.52*37.48 
+Pillaro Pt,CA*122.83*37.83 
+Pine Bluff,AR*91.93*34.17 
+Pittsburgh,PA*80.22*40.50 
+Pittsfield,MA*73.18*42.26 
+Plainview,TX*101.71*34.17 
+Plattsburgh,NY*73.47*44.65 
+Pocatello,ID*112.60*42.92 
+Point Lay,AK*162.92*69.82 
+Point Mugu,CA*119.12*34.12 
+Ponca City,OK*97.10*36.73 
+Pontiac,MI*83.42*42.67 
+Pope AFB,NC*79.02*35.17 
+Poplar Bluff,MO*90.47*36.77 
+Port Alexndr,AK*134.65*56.25 
+Port Angeles,WA*123.50*48.12 
+Port Arthur,TX*94.02*30.58 
+Port Clarnce,AK*166.87*65.25 
+Port Heiden,AK*158.62*56.95 
+Portland,ME*70.32*43.65 
+Portland,OR*122.60*45.60 
+Poughkeepsie,NY*73.88*41.63 
+Prescott,AZ*112.43*34.65 
+Presque Isle,ME*68.05*46.68 
+Price/Carbon,UT*110.75*39.62 
+Prospect Crk,AK*150.65*66.82 
+Providence,RI*71.43*41.73 
+Provo,UT*111.72*40.22 
+Prudhoe Bay,AK*148.33*70.25 
+Pt Alsworth,AK*154.30*60.20 
+Pt Arena,CA*124.22*39.58 
+Pt Arguello,CA*121.12*34.95 
+Pt Piedras,CA*121.28*35.67 
+Pueblo,CO*104.52*38.28 
+Pullman,WA*117.12*46.75 
+Puntilla,AK*153.25*62.17 
+Quantico Mca,VA*77.30*38.50 
+Quillayute,WA*124.55*47.95 
+Quincy,IL*91.20*39.93 
+Quonset Pt NAS,RI*71.25*41.36 
+Raleigh-Durh,NC*78.78*35.87 
+Randolph AFB,TX*98.28*29.53 
+Rapid City,SD*103.07*44.05 
+Raton,NM*104.50*36.74 
+Rawlins,WY*107.20*41.80 
+Reading,PA*75.97*40.38 
+Red Bluff,CA*122.25*40.15 
+Redding,CA*122.30*40.50 
+Redig,SD*103.32*45.16 
+Redmond,OR*121.15*44.27 
+Redwood Falls,MN*95.08*44.55 
+Reese AFB,TX*102.05*33.60 
+Reno,NV*119.78*39.50 
+Renton,WA*122.22*47.50 
+Rhinelander,WI*89.45*45.63 
+Rice Lake,WI*91.72*45.48 
+Richards-Geb,MO*94.55*38.85 
+Richmond,VA*77.33*37.50 
+Rickenbacker,OH*82.93*39.82 
+Rifle,CO*107.80*39.53 
+Riverside,CA*117.45*33.95 
+Riverton,WY*108.45*43.05 
+Roanoke Muni,VA*79.97*37.32 
+Robins AFB,GA*83.60*32.63 
+Rochester,MN*92.50*43.92 
+Rochester,NY*77.67*43.12 
+Rock Springs,WY*109.07*41.60 
+Rockford,IL*89.10*42.20 
+Rockland,ME*69.12*44.07 
+Rockport,TX*97.03*28.08 
+Rocky Mt,NC*77.88*35.85 
+Rome/Russell,GA*85.17*34.35 
+Roosevelt,UT*110.63*40.50 
+Roseburg,OR*123.37*43.23 
+Roseglen,ND*101.83*47.75 
+Roswell,NM*104.53*33.30 
+Rumford,ME*70.88*44.88 
+Ruskin,FL*82.60*27.97 
+Russell,KS*98.82*38.87 
+Rutland,VT*73.95*43.53 
+S Marsh Isl,LA*91.98*28.30 
+S Weymouth,MA*70.93*42.15 
+Sacramento,CA*121.60*38.70 
+Safford Awrs,AZ*109.68*32.82 
+Saginaw,MI*84.08*43.53 
+Saint George,UT*113.60*37.08 
+Saint Paul,MN*93.05*44.93 
+Saint Peters,FL*82.68*27.92 
+Salem,IL*88.96*38.63 
+Salem,OR*123.00*44.92 
+Salida,CO*106.05*38.53 
+Salina,KS*97.65*38.80 
+Salinas,CA*121.60*36.67 
+Salisbury,MD*75.50*38.33 
+Salmon,ID*113.90*45.18 
+Salt Lake Ct,UT*111.97*40.78 
+San Angelo,TX*100.50*31.37 
+San Antonio,TX*98.47*29.33 
+San Carlos,CA*122.25*37.52 
+San Clemente,CA*117.62*33.42 
+San Diego,CA*116.97*32.82 
+San Francisco,CA*122.38*37.62 
+San Jose,CA*121.92*37.37 
+San Jose/Rei,CA*121.82*37.33 
+San Luis Obi,CA*120.65*35.23 
+San Mateo,CA*117.58*33.38 
+San Miguel,CA*120.40*34.03 
+San Nic Isl,CA*119.45*33.25 
+Sand Point,AK*160.50*55.33 
+Sandburg,CA*118.73*34.75 
+Sanderson,TX*102.42*30.17 
+Sanford,FL*81.25*28.78 
+Santa Ana,CA*117.88*33.67 
+Santa Barb,CA*119.83*34.43 
+Santa Fe,NM*106.08*35.62 
+Santa Maria,CA*120.45*34.90 
+Santa Monica,CA*118.45*34.02 
+Santa Rosa,CA*122.82*38.52 
+Saranac Lk,NY*74.20*44.38 
+Sarasota,FL*82.55*27.40 
+Sault Ste M,MI*84.37*46.47 
+Savannah Mun,GA*81.20*32.13 
+Sawyer AFB,MI*87.40*46.35 
+Schenectady,NY*73.93*42.85 
+Scott AFB,IL*89.85*38.55 
+Scottsbluff,NE*103.60*41.87 
+Scottsdale,AZ*111.92*33.62 
+Seattle,WA*122.30*47.45 
+Seattle/Boeing,WA*122.30*47.53 
+Selfridge,MI*82.83*42.62 
+Selma,AL*86.99*32.34 
+Seul Choix,MI*85.92*45.92 
+Seward,AK*149.75*60.18 
+Sexton,OR*123.37*42.62 
+Seymour-John,NC*77.97*35.33 
+Shaw AFB,SC*80.47*33.97 
+Shelter Cove,CA*124.07*40.03 
+Shelton,WA*123.15*47.25 
+Shemy,AK*174.13*53.20 
+Sheridan,WY*106.97*44.77 
+Sherman-Deni,TX*96.67*33.72 
+Shishmaref,AK*166.03*66.27 
+Show Low,AZ*110.00*34.27 
+Shreveport,LA*93.75*32.52 
+Sidney,MT*104.18*47.72 
+Sidney Muni,NE*102.98*41.10 
+Silver City,NM*108.17*32.63 
+Sioux City,IA*96.38*42.40 
+Sioux Falls,SD*96.73*43.58 
+Siskiyou,CA*122.47*41.78 
+Site R,PA*77.43*39.73 
+Sitka,AK*135.35*57.07 
+Sitkinak,AK*154.20*56.88 
+Skagway,AK*135.53*59.75 
+Skwentna,AK*151.20*61.97 
+Slidel,LA*89.82*30.35 
+Smyrna,TN*86.50*36.00 
+Snowshoe Lk,AK*146.67*62.03 
+Socorro,NM*106.90*34.07 
+Soda Springs,ID*111.58*42.65 
+South Bend,IN*86.32*41.70 
+South Brazos,TX*95.87*28.03 
+Southern Pin,NC*79.39*35.24 
+Spartanburg,SC*81.96*34.92 
+Spencer,IA*95.15*43.17 
+Spickard,MO*93.72*40.25 
+Spokane,WA*117.53*47.63 
+Springdale,AR*94.13*36.18 
+Springfield,IL*89.67*39.85 
+Springfield,MO*93.38*37.23 
+StLouis/Spirit,MO*90.63*38.65 
+St Cloud,MN*94.07*45.55 
+St Johnsbury,VT*72.02*44.42 
+St Joseph,MO*95.53*40.28 
+St Louis,MO*90.37*38.75 
+St Paul Is,AK*170.22*57.15 
+Stampede Pas,WA*121.33*47.28 
+State Colleg,PA*77.83*40.85 
+Staunton,VA*78.85*38.27 
+Steamboat Sp,CO*106.82*40.48 
+Stephenville,TX*98.18*32.22 
+Sterling,IL*89.67*41.74 
+Stillwater,OK*97.09*36.16 
+Stockton,CA*121.25*37.90 
+Sun Valley,ID*114.30*43.50 
+Superior Val,CA*117.10*35.33 
+Susanville,CA*120.95*40.63 
+Syracuse,NY*76.12*43.12 
+Tacoma,WA*122.58*47.27 
+Tahneta Pass,AK*147.30*61.90 
+Talkeetna,AK*150.10*62.30 
+Tallahassee,FL*84.37*30.38 
+Tampa Intl,FL*82.53*27.97 
+Tanana,AK*152.10*65.17 
+Taos,NM*105.57*36.42 
+Taylorville,IL*89.33*39.53 
+Temple,TX*97.42*31.15 
+Terre Haute,IN*87.30*39.45 
+Teterboro,NJ*74.05*40.85 
+Texarkana,AR*94.00*33.45 
+The Dalles,OR*121.15*45.62 
+Thermal,CA*116.17*33.63 
+Thief River,MN*96.18*48.07 
+Thompson Fal,MT*115.37*47.60 
+Tinker AFB,OK*97.38*35.42 
+Titusville,FL*80.80*28.52 
+Tofte,MN*90.83*47.58 
+Toledo,OH*83.80*41.60 
+Toledo,WA*122.80*46.48 
+Tonopah,NV*117.08*38.07 
+Tooele,UT*112.20*40.17 
+Topeka,KS*95.62*39.07 
+Topeka/Forbe,KS*95.67*38.95 
+Torrance,CA*118.33*33.80 
+Traverse Cty,MI*85.58*44.73 
+Travis AFB,CA*121.93*38.27 
+Trenton,NJ*74.82*40.28 
+Trinidad,CO*104.33*37.25 
+Troutdale,OR*122.40*45.55 
+Troy,AL*86.02*31.87 
+Truckee-Tahoe,CA*120.13*39.32 
+Truth Or Con,NM*107.27*33.23 
+Tucson,AZ*110.93*32.12 
+Tucumcari,NM*103.60*35.18 
+Tulsa,OK*95.90*36.20 
+Tupelo,MS*88.77*34.27 
+Tuscaloosa,AL*87.62*33.23 
+Tustin Mcas,CA*117.83*33.70 
+Twenty9 Palm,CA*116.15*34.28 
+Twin Falls,ID*114.48*42.48 
+Tyler/Pounds,TX*95.40*32.37 
+Tyndall AFB,FL*85.58*30.07 
+Ukiah,CA*123.20*39.13 
+Umiat,AK*152.13*69.37 
+Unalakleet,AK*160.80*63.88 
+Upolo Pt Ln,HI*156.47*20.42 
+Utica,NY*75.38*43.15 
+Valdez,AK*146.35*61.13 
+Valdez 2,AK*146.25*61.13 
+Valdosta,GA*83.28*30.78 
+Valentine,NE*100.55*42.87 
+Van Nuys,CA*118.48*34.22 
+Vance AFB,OK*97.92*36.33 
+Vandalia,IL*89.17*38.99 
+Vandenberg,CA*120.95*35.20 
+Vernal,UT*109.52*40.45 
+Vero Beach,FL*80.42*27.65 
+Vichy/Rolla,MO*91.77*38.13 
+Victoria,TX*96.92*28.85 
+Visalia,CA*119.40*36.32 
+Volens,VA*78.98*36.95 
+Volk Fld,WI*90.27*43.93 
+W Lafayette,IN*86.93*40.42 
+W Palm Beach,FL*80.12*26.68 
+W Yellowston,MT*111.12*44.68 
+Waco-Madison,TX*97.22*31.62 
+Waimea-Koha,HI*156.12*20.00 
+Wainwright,AK*159.85*70.62 
+Wales,AK*168.08*66.03 
+Walla Walla,WA*118.28*46.10 
+Wallops Sta,VA*75.48*37.85 
+Walnut Ridge,AR*90.93*36.13 
+Warroad,MN*95.35*48.93 
+Washington/Dulles,DC*77.46*38.95 
+Washington/Natl,DC*77.04*38.85 
+Waterloo Mun,IA*92.40*42.55 
+Watertown,NY*76.02*44.00 
+Watertown,SD*97.15*44.92 
+Wausau,WI*89.62*44.92 
+Waycross,GA*82.40*31.25 
+Wenatchee,WA*120.20*47.40 
+Wendover,UT*114.05*41.22 
+West Plains,MO*92.42*37.22 
+Westfield,MA*72.72*42.17 
+Westhampton,NY*72.63*40.85 
+Westover,MA*72.53*42.20 
+Wheeling,WV*80.65*40.18 
+Whidbey Is,WA*122.65*48.35 
+White Plains,NY*73.72*41.07 
+White Sands,NM*106.40*32.63 
+White Sulph,WV*80.20*37.46 
+Whiteman AFB,MO*93.55*38.73 
+Whiting Fld,FL*87.02*30.72 
+Whittier,AK*148.72*60.78 
+Wichita,KS*97.43*37.65 
+Wichita Flls,TX*98.50*33.98 
+Wildhorse,NV*116.25*41.33 
+Wilkes-Barre,PA*75.73*41.33 
+Williams AFB,AZ*111.67*33.30 
+Williamsport,PA*76.92*41.25 
+Williston,ND*103.63*48.18 
+Willoughby,OH*81.40*41.63 
+Willow Arpt,AK*150.05*61.75 
+Willow Grove,PA*75.15*40.20 
+Wilmington,DE*75.60*39.67 
+Wilmington,NC*77.92*34.27 
+Wilmington,VT*72.88*42.88 
+Windsor Loc,CT*72.68*41.93 
+Wink,TX*103.20*31.78 
+Winnemucca,NV*117.80*40.90 
+Winslow,AZ*110.73*35.02 
+Winston-Salem,NC*80.23*36.13 
+Winter Park,CO*105.87*40.00 
+Wolf Point,MT*105.58*48.10 
+Wolfeboro,NH*71.38*44.00 
+Worcester,MA*71.87*42.27 
+Worland,WY*107.97*43.97 
+Worthington,MN*95.58*43.65 
+Wrangell,AK*132.37*56.48 
+Wright-Pat AFB,OH*84.05*39.83 
+Wurtsmith,MI*83.40*44.45 
+Yakima,WA*120.53*46.57 
+Yakutat,AK*139.67*59.52 
+Yankton,SD*97.38*42.92 
+Yellowstone,WY*110.42*44.55 
+Youngstown,OH*80.67*41.27 
+Ypsilanti,MI*83.53*42.23 
+Yucca Flat,NV*116.08*37.58 
+Yuma,AZ*115.00*33.10 
+Yuma Mcas,AZ*114.62*32.65 
+Yuma Prv Gd,AZ*114.40*32.85 
+Zanesville,OH*81.90*39.95 
